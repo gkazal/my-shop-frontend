@@ -1,7 +1,7 @@
 
 const Dashboard = () => {
   return (
-    <div>Dashboard</div>
+    <div className="bg-red-100 text-5xl text-center">Dashboard tailwind</div>
   )
 }
 
